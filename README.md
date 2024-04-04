@@ -1,4 +1,4 @@
-These 3 projects are beginner level. All of these projects have been edited using MS Visual Studio.
+These 3 projects are beginner level. All of these projects have been coded using python language using MS Visual Studio Code.
 
 Project 1: Pig Game
 
