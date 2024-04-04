@@ -6,4 +6,8 @@ Players will get a turn whereby they will roll a dice. Whatever value they get o
 
 PROJECT 2: MADLIBS GENERATOR
 
+A user will be given a story and there will be some words that are mussing from thr story. These words can be replaced by the user based on the catgegory of words that they want to insert, for example [noun, adjective, verb]. Once this is done the words that were requested will then be used inside the story. 
+
 PROJECT 3: TIMED MATH CHALLENGE QUIZ
+
+Randomly generated math questions are given for the user to answer. The user will have to answer all of the questions correctly so that they will be able to complete the quiz. If their answer is wrong then they will need to redo the same math question until they get it right before proceeding to the next question. Once the user completes the quiz, their time will be recorded in seconds.
